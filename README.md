@@ -1,6 +1,6 @@
 # AI-and-the-Disempowerment-of-Young-Female-Creatives
 
-## Qualitative Data 
+## Qualitative Data (38 Interviews) 
 
 [Interview 38_text.pdf](https://github.com/user-attachments/files/20719272/Interview.38_text.pdf)
 [Interview 37_video.pdf](https://github.com/user-attachments/files/20719270/Interview.37_video.pdf)
@@ -40,3 +40,7 @@
 [Interview 3_text.pdf](https://github.com/user-attachments/files/20719228/Interview.3_text.pdf)
 [Interview 2_video.pdf](https://github.com/user-attachments/files/20719227/Interview.2_video.pdf)
 [Interview 1_text.pdf](https://github.com/user-attachments/files/20719225/Interview.1_text.pdf)
+
+## Quantitative Data 
+
+
